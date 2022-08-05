@@ -1,0 +1,53 @@
+{
+  "bankData": [
+    {
+      "id": 1,
+      "image": "./images/services/design.png",
+      "bankName": "kuda",
+      "branch": "ikeja",
+      "streetNum": 30
+    },
+
+    {
+      "id": 2,
+      "image": "./images/services/project management.jpg",
+      "bankName": "barter",
+      "branch": "mile 12",
+      "streetNum": 28
+    },
+
+    {
+      "id": 3,
+      "image": "./images/services/curriculum development and training.png",
+      "bankName": "carbon",
+      "branch": "mile 12",
+      "streetNum": 28
+    }
+  ],
+
+  "personData": [
+    {
+      "id": 1,
+      "image": "./images/services/lawyer.jpg",
+      "name": "Akande",
+      "job": "Lawyer",
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Adipisci, reiciendis?"
+    },
+
+    {
+      "id": 2,
+      "image": "./images/services/stylist.png",
+      "name": "Gabrella",
+      "job": "Pharmacist",
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Adipisci, reiciendis?"
+    },
+
+    {
+      "id": 3,
+      "image": "./images/services/banker.jpg",
+      "name": "Kolade",
+      "job": "Banker",
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Adipisci, reiciendis?"
+    }
+  ]
+}

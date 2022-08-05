@@ -1,0 +1,34 @@
+@use "./colors" as *;
+
+@mixin h1 {
+  font: {
+    size: 3rem;
+    weight: 700;
+  }
+  line-height: 3rem;
+}
+
+@mixin h5 {
+  font: {
+    size: 2rem;
+    weight: 500;
+  }
+  line-height: 0.5rem;
+}
+
+@mixin p {
+  font: {
+    size: 1.5rem;
+    weight: 500;
+  }
+  line-height: 0.5rem;
+}
+
+.heading {
+  @include h1;
+}
+
+.paragraph {
+  @include p;
+  color: $textColor;
+}

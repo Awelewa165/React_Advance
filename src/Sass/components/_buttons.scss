@@ -1,0 +1,5 @@
+@use "../colors" as *;
+
+.submitBtn {
+  border: 2px solid $btnPryColor;
+}
